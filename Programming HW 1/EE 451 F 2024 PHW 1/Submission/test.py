@@ -1,0 +1,2 @@
+a = "Hello"
+a.islower()
